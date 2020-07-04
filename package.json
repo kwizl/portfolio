@@ -1,0 +1,14 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "My portfolio projects",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Martin Njoroge",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
