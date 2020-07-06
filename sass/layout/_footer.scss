@@ -1,6 +1,10 @@
+#email {
+    text-align: end;
+}
+
 .footer {
-    background-color: $color-grey-dark-3;
-    padding: 10rem 0;
+    background-color: $color-footer;
+    padding: 5rem 0;
     font-size: 1.4rem;
 
     &__logo-box {
@@ -8,15 +12,10 @@
         margin-bottom: 8rem;
     }
 
-    &__logo {
-        width: 15rem;
-        height: auto;
-    }
-
     &__navigation {
         border-top: 1px solid $color-grey-dark;
         padding-top: 2rem;  
-        display: inline-block; 
+        display: inline-block;
     }
 
     &__list {
@@ -34,12 +33,12 @@
     &__link {
         &:link,
         &:visited {
-            color: $color-grey-light-1;
+            color: $color-footer-link;
             text-decoration: none;
             text-transform: uppercase;
             display: inline-block;
             transition: all .2s;
-            background-color: $color-grey-dark-3;
+            background-color: $color-footer;
         }
 
         &:hover,

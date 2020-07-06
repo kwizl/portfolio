@@ -5,11 +5,11 @@
 
   &__button {
     background-color: $color-white;
-    height: 7rem;
-    width: 7rem;
+    height: 4rem;
+    width: 4rem;
     position: fixed;
-    top: 6rem;
-    right: 6rem;
+    top: 7rem;
+    right: 7rem;
     border-radius: 50%;
     z-index: 2000;
     box-shadow: 0 1rem 3rem rgba($color-black, .1);
@@ -18,12 +18,12 @@
   }
 
   &__background {
-    height: 6rem;
-    width: 6rem;
+    height: 4rem;
+    width: 4rem;
     border-radius: 50%;
     position: fixed;
-    top: 6.5rem;
-    right: 6.5rem;
+    top: 7rem;
+    right: 7rem;
     background-image: radial-gradient($color-primary-light, $color-primary-dark);
     z-index: 1000;
     transition: transform .8s cubic-bezier(0.86, 0, 0.07, 1);
@@ -91,13 +91,13 @@
   // ICON
   &__icon {
     position: relative;
-    margin-top: 3.5rem;
+    margin-top: 2rem;
     
     &,
     &::before,
     &::after {
-      width: 3rem;
-      height: 2px;
+      width: 2rem;
+      height: 1px;
       background-color: $color-grey-dark-3;
       display: inline-block;
     }
@@ -110,16 +110,16 @@
       transition: all .2s;
     }
 
-    &::before { top: -.8rem; }
-    &::after { top: .8rem }
+    &::before { top: -.5rem; }
+    &::after { top: .5rem }
   }
 
   &__button:hover &__icon::before {
-    top: -1rem;
+    top: -.5rem;
   }
 
   &__button:hover &__icon::after {
-    top: 1rem;
+    top: .5rem;
   }
 
   &__checkbox:checked + &__button &__icon {

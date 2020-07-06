@@ -1,3 +1,13 @@
+
+
+#card-1 {
+    color: $color-secondary-dark;
+}
+
+#card-2 {
+    color: $color-green;
+}
+
 .card {
     // FUNCTIONALITY
     perspective: 150rem;
@@ -36,7 +46,7 @@
             }
 
             &-2 {
-                background-image: linear-gradient(to right bottom, $color-primary-light, $color-primary-dark);
+                background-image: linear-gradient(to right bottom, $color-green-light, $color-green-dark);
             }
 
             &-3 {
@@ -69,7 +79,7 @@
         }
 
         &--2 {
-            background-image: linear-gradient(to right bottom, $color-primary-light, $color-primary-dark),
+            background-image: linear-gradient(to right bottom, $color-green-light, $color-green-dark),
             url('../img/stay-in-touch.png');
         }
 
