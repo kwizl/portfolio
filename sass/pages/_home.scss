@@ -1,0 +1,19 @@
+.section-about {
+    background-color: $color-grey-light-1;
+    padding: 15rem 2rem 8rem 2rem;
+    margin-top: -15vh;
+}
+
+.paragraph::selection {
+    color: $color-primary;
+}
+
+.section-projects {
+    background-color: $color-grey-light-1;
+    padding: 15rem 2rem 2rem 2rem;
+    margin-top: -10rem;
+
+    @include respond(tab-port) {
+        text-align: center;
+    }
+}
