@@ -5,7 +5,7 @@ This is my portfolio containing my projects
 [Live Demo](https://kwizl.github.io/portfolio/)
 
 ## Screenshot
-![screenshot](img/screenshoot.png)
+![screenshot](img/screenshot/screenshot.png)
 
 ## Authors
 
