@@ -7,13 +7,13 @@ This is my portfolio containing my projects
 ## Screenshot
 ![screenshot](img/screenshot/screenshot.png)
 
-## Authors
+## Author
 
 👤 **Martin Njoroge**
 
 - Github: [@kwizl](https://github.com/kwizl)
 - Twitter: [@NjoroKaris](https://twitter.com/NjoroKaris)
-- Linkedin: [martin njoroge](https://www.linkedin.com/in/martin-njoroge-098774110/)
+- Linkedin: [martin njoroge](https://www.linkedin.com/in/martin-kariuki-njoroge/)
 
 ## 🤝 Contributing
 
