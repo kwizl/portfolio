@@ -2,9 +2,10 @@
 This is my portfolio containing my projects
 
 ## Live Demo
-
 [Live Demo](https://kwizl.github.io/portfolio/)
 
+## Screenshot
+![screenshot](img/screenshoot.png)
 
 ## Authors
 
