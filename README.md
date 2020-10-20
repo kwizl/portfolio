@@ -1,5 +1,5 @@
 # Portfolio
-This is my portfolio containing my projects
+It is my portfolio containing my projects
 
 ## Live Demo
 [Live Demo](https://kwizl.github.io/portfolio/)
@@ -17,9 +17,5 @@ This is my portfolio containing my projects
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!
-
-## Show your support
-
-Give a ⭐️ if you like this project!
+Contributions, issues, and feature requests are welcome!
 
